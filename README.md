@@ -1,6 +1,9 @@
 ### 안녕하십니까  👋
-<div><img width= "30%" src = "https://user-images.githubusercontent.com/78770548/145712573-e2f67578-d044-40b2-bf3b-88a2769df90c.png"/>
-<img width ="30%" src = "https://user-images.githubusercontent.com/78770548/145712708-42a700aa-17e5-465c-bfa1-1036db118792.png"/><div/>
+<div><img width= "20%" src = "https://user-images.githubusercontent.com/78770548/145712573-e2f67578-d044-40b2-bf3b-88a2769df90c.png"/>
+<img width ="20%" src = "https://user-images.githubusercontent.com/78770548/145712708-42a700aa-17e5-465c-bfa1-1036db118792.png"/>
+  <img width= "20%" src ="https://user-images.githubusercontent.com/78770548/145712787-492448e4-2d11-4ff9-9bf0-4713066711f0.png"/>
+  <img width= "20%" src ="https://user-images.githubusercontent.com/78770548/145712788-0bfc96ba-c8d4-4c87-a5cd-509073b22d46.png"/><div/>
+  
 
 <!--
 **leechigu/leechigu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
