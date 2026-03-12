@@ -1,5 +1,5 @@
 
- - LGCNS - 2024년 AIDD 코딩 경진 대회 - 동상 수상
+ - LGCNS - 2024년 AIDD 코딩 경진 대회 - 우수상
 
 
 https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/d381d33e-d2d3-4051-8a9d-99d3ffb21395-chigu-lee-753170a4-72f9-4328-9dbe-e4c8f865845d-certificate.pdf
